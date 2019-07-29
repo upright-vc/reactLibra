@@ -10,8 +10,8 @@ Lastly we will create a standard schema for UI/UX flow that includes key generat
 
 # Pngme Team Member Contributions
 
-Peter Okwara (React Native & Blockchain Dev) 
-Paul Sonier (Engineering)
-Giovanni Valdenegro (Product / Front-end)
-Brendan Playford (Product Management)
+- Peter Okwara (React Native & Blockchain Dev) 
+- Paul Sonier (Engineering)
+- Giovanni Valdenegro (Product / Front-end)
+- Brendan Playford (Product Management)
 
